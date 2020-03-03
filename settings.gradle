@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Reg_Login_With_Status'
